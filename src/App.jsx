@@ -11,7 +11,6 @@ softShadows()
 function App() {
    const font = new THREE.FontLoader().parse(Roboto)
 
-   // configure font geometry
    const textOptions = {
       font,
       size: 1,

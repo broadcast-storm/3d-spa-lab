@@ -7,7 +7,7 @@ import { useGLTF, useAnimations } from '@react-three/drei'
 
 export default function Model(props) {
    const group = useRef()
-   const { nodes, materials, animations } = useGLTF('/johnny.glb')
+   const { nodes, materials, animations } = useGLTF(`${process.env.PUBLIC_URL}/johnny.glb`)
    const { actions } = useAnimations(animations, group)
    useEffect(() => {
       actions.dance.play()
@@ -32,4 +32,4 @@ export default function Model(props) {
    )
 }
 
-useGLTF.preload('/jhonny.glb')
+useGLTF.preload(`${process.env.PUBLIC_URL}/johnny.glb`)
