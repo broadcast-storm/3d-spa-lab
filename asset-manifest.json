@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/3d-spa-lab/static/css/main.f303a2cf.chunk.css",
-    "main.js": "/3d-spa-lab/static/js/main.ac4a6256.chunk.js",
-    "main.js.map": "/3d-spa-lab/static/js/main.ac4a6256.chunk.js.map",
+    "main.js": "/3d-spa-lab/static/js/main.6b9ee957.chunk.js",
+    "main.js.map": "/3d-spa-lab/static/js/main.6b9ee957.chunk.js.map",
     "runtime-main.js": "/3d-spa-lab/static/js/runtime-main.6597f021.js",
     "runtime-main.js.map": "/3d-spa-lab/static/js/runtime-main.6597f021.js.map",
-    "static/js/2.9c2babc6.chunk.js": "/3d-spa-lab/static/js/2.9c2babc6.chunk.js",
-    "static/js/2.9c2babc6.chunk.js.map": "/3d-spa-lab/static/js/2.9c2babc6.chunk.js.map",
+    "static/js/2.6d257bab.chunk.js": "/3d-spa-lab/static/js/2.6d257bab.chunk.js",
+    "static/js/2.6d257bab.chunk.js.map": "/3d-spa-lab/static/js/2.6d257bab.chunk.js.map",
     "index.html": "/3d-spa-lab/index.html",
     "static/css/main.f303a2cf.chunk.css.map": "/3d-spa-lab/static/css/main.f303a2cf.chunk.css.map",
-    "static/js/2.9c2babc6.chunk.js.LICENSE.txt": "/3d-spa-lab/static/js/2.9c2babc6.chunk.js.LICENSE.txt"
+    "static/js/2.6d257bab.chunk.js.LICENSE.txt": "/3d-spa-lab/static/js/2.6d257bab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6597f021.js",
-    "static/js/2.9c2babc6.chunk.js",
+    "static/js/2.6d257bab.chunk.js",
     "static/css/main.f303a2cf.chunk.css",
-    "static/js/main.ac4a6256.chunk.js"
+    "static/js/main.6b9ee957.chunk.js"
   ]
 }
